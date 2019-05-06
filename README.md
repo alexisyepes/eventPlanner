@@ -1,3 +1,5 @@
+Link to deployed app: https://fast-springs-87530.herokuapp.com/events
+
 # eventPlanner
 
 ### 12/03/2019:
